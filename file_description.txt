@@ -1,0 +1,8 @@
+File Descriptions
+2d_heat_conduction.cpp		-->	C++ program to solve 2d conduction
+2d_Conduction_Report.pdf	-->	Report describing the method used to solve
+Temperature_t=0s.png		-->	Temperature contour in deg C at time = 0s
+Temperature_t=5s.png		-->	Temperature contour in deg C at time = 5s
+Temperature_t=20s.png		-->	Temperature contour in deg C at time = 20s
+Temperature_t=50s.png		-->	Temperature contour in deg C at time = 50s
+Temperature_t=7200s.png		-->	Temperature contour in deg C at time = 7200s
